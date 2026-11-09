@@ -54,7 +54,7 @@ The controller code and technical notes are organized under [Motor & Automation]
 | --- | --- |
 | **Shuoqi Yang** | Mechanical design, dimensional planning, material sourcing, fabrication, assembly, food-flow testing, and mechanical redesign |
 | **[Shaoxuan Xiong](https://github.com/yuxuan-518)** | Motor control, electrical testing, automation code, and documentation of both motor configurations |
-| **[Wenhao Jia](https://github.com/jw3422951-ops)** | Chemistry and food-preservation study, to be documented through his contributor submission |
+| **[Wenhao Jia](https://github.com/jw3422951-ops)** | Designed and ran the 24-container food-preservation study, wrote the report, and contributed motor and gear CAD and motion simulations. [Study and results](docs/food-preservation.md) |
 
 ## Repository Guide
 

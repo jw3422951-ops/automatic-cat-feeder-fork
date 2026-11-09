@@ -2,15 +2,10 @@
 
 **[Project Overview](../README.md) · [Mechanical Design](mechanical-design.md) · [Motor & Automation](motor-and-automation.md) · [Food Preservation](food-preservation.md)**
 
-This page is reserved for [Wenhao Jia](https://github.com/jw3422951-ops) to document the chemistry and food-preservation portion of the project through his Fork and a Pull Request.
+**Study by [Wenhao Jia](https://github.com/jw3422951-ops).**
 
-To preserve accurate authorship, the main repository does not infer his experimental question, materials, procedure, measurements, results, or conclusions. The completed contribution can replace this page while retaining the navigation links above.
+While helping build the feeder, I wanted to understand what happens to dry cat food before it is dispensed. I designed and ran a 24-container study comparing plastic and aluminum foil at four silica gel amounts. I measured loss on drying and the pH of aqueous extracts and used thin-layer chromatography to compare relative signals from lipid-soluble extracts.
 
-Suggested sections for the contributor-authored page:
+On Day 21, the foil group with 4 g of silica gel averaged **4.50% loss on drying**, compared with **7.60%** for foil without silica gel. The 1 g and 2 g foil groups also showed higher TLC spot intensities than the foil control that day. These preliminary comparisons guide what I would test next for the feeder's storage compartment.
 
-- Research question and preservation goal
-- Materials or moisture-control methods considered
-- Experimental procedure and controls
-- Recorded measurements and observations
-- Results, limitations, and selected approach
-- Contributor statement
+[Read the combined study and prototype overview](https://github.com/jw3422951-ops/cat-food-storage-study) · [See the results and LoD chart](https://github.com/jw3422951-ops/cat-food-storage-study#results) · [Open the full report (PDF)](https://github.com/jw3422951-ops/cat-food-storage-study/blob/main/reports/cat-food-storage-experiment.pdf)
